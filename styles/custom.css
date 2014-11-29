@@ -281,22 +281,24 @@ h1 {font-weight: normal; font-style: normal; letter-spacing: 0px; line-height: 2
 #divFooter{
 	border-bottom-left-radius: 0px;
 	border-bottom-right-radius: 0px;
-	background-color: rgb(122, 12, 12);
-	color: rgb(211, 211, 211);
+	background-color: transparent;
+	color: #fff;
 	font-family: Actor, sans-serif;
 	text-transform: none;
 	font-size: 12px;
 	letter-spacing: 0px;
 	line-height: 22px;
-	background-image: url(tactile_noise.png);
+	background-image: url(scribble_light.png);
 	background-repeat: repeat repeat;
+	padding: 10px;
+}
 }
 
 .divPanel {padding: 10px;;;;}
 
-#divFooter a {color: rgb(224, 95, 3); font-size: 13px; font-family: 'Open Sans', sans-serif;}
+#divFooter a {color: #ffcc00; font-size: 13px; font-family: 'Open Sans', sans-serif;}
 
-#divFooter h3 {font-family: 'Source Sans Pro', sans-serif; font-weight: normal; font-style: normal; font-size: 23px; line-height: 45px; color: rgb(211, 211, 211);}
+#divFooter h3 {font-family: 'Source Sans Pro', sans-serif; font-weight: normal; font-style: normal; font-size: 23px; line-height: 45px; color: white;}
 
 h2 {font-weight: normal; font-style: normal; font-family: 'Source Sans Pro', sans-serif; font-size: 35px; line-height: 50px;}
 
