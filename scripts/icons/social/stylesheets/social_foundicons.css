@@ -18,6 +18,8 @@
   background-image: none;
   background-position: 0 0;
   background-repeat: repeat;
+  color: darkgreen;
+  font-size: larger;
 }
 
 [class*="foundicon-"]:before {
